@@ -5,7 +5,7 @@ A small demonstration of some features of a roguelike game that is currently in 
 This game is made in its entirety by Matthew Caccavelli, including all code, art, sfx and music.
 Developed in Unity, using Aseprite for art and Logic Pro X for sound design and music composition.
 
-![](combatDemo1.gif)\
+![](combatDemo1.gif)
 
 This game is still very much in development, and many features will not be explicitly demonstrated here. The core systems of the game which will be demonstrated, being level generation and combat, have been implemented and designed in such a way that their extension is extremely streamlined and simple. Thus, the immediate focus of development going forward is additional content for these systems, such as the design of new level elements, enemies, items and combat features, which will be especially art-heavy. I hope to publicly release a playable demo soon.
 
